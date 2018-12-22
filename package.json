@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "stylus": "0.54.5",
+    "webpack": "4.28.1"
+  }
+}
